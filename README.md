@@ -7,6 +7,10 @@ original website if fully dynamic, here static website dynamic function are not 
 
 here is the link of some pages :-
 
+
+click on register and login button after opening link, you can see the working.
+
+
 1. login page:- https://vishi834019.github.io/e-vote/login.html
 2. register page :- https://vishi834019.github.io/e-vote/registration.html
 3. Access denied page :- https://vishi834019.github.io/e-vote/accessdenied.html
