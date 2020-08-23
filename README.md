@@ -3,7 +3,7 @@ e-vote version 1.0 application
 
 e-voting, it's a web application, developed on java, MySQL, MVC, and Linux platform. It is used for e-vote, the voter can cast their vote for a candidate, who are nominated in the election from their city just by login with their adhar and password from anywhere.
 
-original website if fully dynamic, here static website dynamic function are not working on github!
+original website is dynamic but here static website, dynamic function are not working on github!
 
 here is the link of some pages :-
 
