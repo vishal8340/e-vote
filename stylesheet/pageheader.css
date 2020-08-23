@@ -1,0 +1,36 @@
+div.candidate
+{
+    color: aquamarine;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    background: orange;
+}
+div.subcandidate
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: mistyrose;
+    text-align: center;
+    background: green;
+}
+div.sticky{
+    top: 5;
+    width: 100%;
+    position: fixed;
+}
+
+div.logout
+{
+    text-shadow: red  2px 3px;
+/*    text-decoration-color: #21ff21;
+    text-shadow: #FC0 1px 0 10px;*/
+    font-weight: bold;
+    font-size:  25px;
+    position:fixed;
+    left: 90%;
+    top:  5.5%;
+}
+a{
+    color: aqua;  
+}
