@@ -1,11 +1,4 @@
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
-
-//window.onbeforeunload = function() { return "You work will be lost."; };
 window.history.forward();
 function noBack() {
     window.history.forward();
